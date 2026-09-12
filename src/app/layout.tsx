@@ -15,6 +15,7 @@ const outfit = Outfit({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://aura-motion.com"),
   title: "AURA | A New Perspective on Motion",
   description:
     "An immersive, cinematic showcase of AURA: Next-generation high-performance hybrid supercar. Experience engineering deconstruction, active aerodynamics, and pure form in motion.",
